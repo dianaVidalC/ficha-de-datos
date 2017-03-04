@@ -1,0 +1,13 @@
+body{
+  background:#F08080;
+  color:#641E16;
+  text-align: center;
+  margin: auto;
+
+}
+ul{
+    text-align:center;
+}
+li{
+    list-style-position:inside;
+}
